@@ -14,6 +14,7 @@
    📫 How to reach me: mrshurns@gmail.com
   ⚡ Fun fact: There's no such thing as too much coffee
 
+<<<<<<< HEAD
 <br>
 My current tech stack:
 <br><br>
@@ -27,3 +28,12 @@ My current tech stack:
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF8)
 
 ![Typescript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logoColor=white)
+=======
+My current tech stack:
+
+![HTML Badge](https://www.flaticon.com/free-icon/html-5_919827) 
+
+![React Badge](https://www.erasmuslifebudapest.com/join-us/front-end-developer)
+
+![Typescript badge](https://miro.medium.com/max/1004/1*ZfCTE6kZArxc0Nr_MybXPQ.png)
+>>>>>>> bcf95eba1f259766e907acb463ef6159846bf8ac
